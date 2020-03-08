@@ -1,1 +1,5 @@
+title: Minimal theme
+logo: /assets/img/logo-m.png
+description: welcome to TypeFree's web site.
+show_downloads: false
 theme: jekyll-theme-minimal
