@@ -11,7 +11,8 @@
 ### システム開発
 
 - 企業向けWebシステム開発(HTML/CSS/javascript/PHP/Java)
-- 自動車会社向けBI構築(EC2/BI tool)
+- 自動車会社向けBI構築(AWS/Tableau)
+- 自動車会社向けBI構築(Azure/PowerBI)
 - 航空会社向けBI構築(Redshift/RDS/S3/Talend/Tableau)
 - 製造業者向けプロジェクト支援システムのプロダクト開発(C#)
 - 航空会社向けマイレージシステム開発(Java)
